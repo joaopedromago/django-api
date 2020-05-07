@@ -1,2 +1,2 @@
-# django-api
-An Api built with Django Rest Framework
+# Recipe API
+## An Api built with Python + Django Rest Framework + TDD
